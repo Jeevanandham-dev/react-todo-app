@@ -35,4 +35,4 @@ npm install
 Run the development server:
 ```bash
 npm run dev
->>>>>>> ad9bb9e2383eca0b61fafd104223f21785e023dc
+
