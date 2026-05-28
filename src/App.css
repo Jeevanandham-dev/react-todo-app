@@ -1,0 +1,8 @@
+@import "tailwindcss";
+/* App.css */
+.btn-add:hover {
+  background-color: #0049e7 !important;
+} 
+.btn-delete:hover {
+  background-color: #ba0707 !important;
+} 
