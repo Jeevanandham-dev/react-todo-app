@@ -23,7 +23,7 @@ How to Web Dev https://www.youtube.com/watch?v=JXdIHGnLTuw
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/react-todo-app.git
+git clone https://github.com/Jeevanandham-dev/react-todo-app.git
 cd react-todo-app
 ```
 
